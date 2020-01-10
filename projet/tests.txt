@@ -1,0 +1,43 @@
+J'ai juste tester le parcours une bonne dizaine de fois
+
+Parcours 1  ( celui a droite ) :
+Section initiale : 
+Coupures :
+1 : Reussi
+2 : Detecte mal angle droit fin du mur ( cote L )
+3 : Detecte mal angle droit fin du mur
+4 : Probleme PWM couloir
+Couloir :
+1 : Detecte mal angle droit fin du mur
+2 : Probleme PWM couloir
+3 : Detecte mal angle droit fin du mur
+4 : Reussit
+
+Mur :
+1 : Detecte mal angle droit fin du mur 
+2 : Detecte mal angle droit fin du mur 
+3 : Reussit
+4 : Reussit
+
+Boucles :
+1 : Reussit
+2 : Sort des boucles ?
+3 : S'arrete au milieu du couloir, continue le reste sans problemes.
+4 : Detecte mal angle droit fin couloir, skip les segments GH et HI et tourne en rond.
+
+Parcours 2 :
+
+Mur :
+1 : Fait la petite boucle 2 fois, jlai stop a ce moment.
+2 : Fait la petite boucle 2 fois, a part sa reussit bien
+3 : Fait la petite boucle 2 fois, a part sa reussit bien
+
+Boucles :
+1 : Reussit bien les boucles, reussit le reste aussi
+2 : Probleme PWM dans le couloir.
+3 : Probleme PWM couloir, affiche FIN au segment J-K
+
+Couloir :
+1 : Fait la petite boucle 2 fois, a part sa reussit bien
+
+

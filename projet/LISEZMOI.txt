@@ -1,0 +1,36 @@
+Utilisation des PIN/PORT
+_______________________
+Indices | Utilisation
+=======================
+A0      |   SRF05 - Trigger (Blue)
+A1      |   SRF05 - Echo (White)
+A2      |   Cytron LSS05 (DS1)
+A3      |   Cytron LSS05 (DS2)  
+A4      |   Cytron LSS05 (DS3)
+A5      |   Cytron LSS05 (DS4)
+A6      |   Cytron LSS05 (DS5) 
+A7      |   Cytron LSS05 (Calibration)
+B0      |   LED (+) VCC
+B1      |   LED (-) GND
+B2      |   Piezo (-) GND
+B3      |   Piezo (+) VCC
+B4      |   
+B5      |
+B6      |
+B7      |
+C0      |   Display LCD
+C1      |   Display LCD   
+C2      |   Display LCD
+C3      |   Display LCD
+C4      |   Display LCD
+C5      |   Display LCD
+C6      |   Display LCD
+C7      |   Display LCD
+D0      |
+D1      |
+D2      |   INT0 Boutton Poussoir
+D3      |   INT1 Boutton Blanc
+D4      |   PWM Roue Gauche OCR1B
+D5      |   PWM Roue Droite OCR1A
+D6      |   Direction Roue Gauche
+D7      |   Direction Roue Droite
